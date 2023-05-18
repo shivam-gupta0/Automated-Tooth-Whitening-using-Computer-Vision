@@ -25,7 +25,7 @@ Integration of various image processing steps into a cohesive pipeline<br>
 To run the project, follow these steps:<br>
 
 Clone the repository:<br>
-git clone https://github.com/your-username/tooth-whitening.git<br><br>
+git clone https://github.com/shivam-gupta0/Tooth-Whitening.git<br><br>
 Install the required dependencies:<br>
 pip install -r requirements.txt<br><br>
 Run the tooth whitening script:<br>
