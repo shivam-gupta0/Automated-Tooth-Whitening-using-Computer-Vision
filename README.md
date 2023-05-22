@@ -21,15 +21,17 @@ Color space manipulation and transformation<br>
 Filtering techniques for enhancing image quality<br>
 Integration of various image processing steps into a cohesive pipeline<br>
 
-**Usage**<br>
-To run the project, follow these steps:<br>
+**Note: Code Availability and Usage**
 
-Clone the repository:<br>
-git clone https://github.com/shivam-gupta0/Tooth-Whitening.git<br><br>
-Install the required dependencies:<br>
-pip install -r requirements.txt<br><br>
-Run the tooth whitening script:<br>
-python tooth_whitening.py<br><br>
+This repository contains project-related information and documentation from my internship. Please note the following:
+
+1. The actual code files are not included in this repository for confidentiality reasons. If you are interested in accessing the code, please contact me at shivamgupta0@hotmail.com to discuss further details.
+
+2. The code is not available for commercial use without prior permission. If you intend to use the code for commercial purposes, please contact me to discuss licensing options.
+
+3. Non-commercial use, such as educational or personal projects, is permitted as long as the appropriate attribution is provided.
+
+If you have any questions or require additional information, feel free to reach out to me. Thank you!
 
 **Conclusion**
 This repository demonstrates my skills and expertise in computer vision and artificial intelligence, particularly in the domain of image processing and object detection. The implementation of the automated tooth whitening algorithm highlights my ability to develop robust and efficient solutions for real-world problems.
